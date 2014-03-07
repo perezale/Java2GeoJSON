@@ -6,7 +6,7 @@ Usage
 ==========
 GeoFeatures defines a whole layer container
 
-* Building path
+* Building a polyline path
 ```java
 GeoFeature[] parsePath(Node[] path){
 	//Generate GeoJson objects
