@@ -8,10 +8,9 @@ Usage
 
 GeoFeatures defines a whole layer container
 
-Building path
+  * Building path
 
       GeoFeature[] parsePath(Node[] path){
-  		
       		//Generate GeoJson objects
       		GeoFeature pathLayer = new GeoFeature();
       		
@@ -26,7 +25,6 @@ Building path
       		pathLayer.setGeometry(path);
       		
       		return new GeoFeature[]{pathLayer};
-  				
       }
 
 Dependencies
