@@ -30,3 +30,5 @@ Dependencies
 * jackson-mapper-asl
   
   http://repository.codehaus.org/org/codehaus/jackson/
+
+For more information visit: www.geojson.com.ar
