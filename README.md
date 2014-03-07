@@ -1,11 +1,9 @@
 Java2GeoJSON
 ============
-
 Create your geographic data in Java, export to GeoJSON
 
 Usage
 ==========
-
 GeoFeatures defines a whole layer container
 
 * Building path
