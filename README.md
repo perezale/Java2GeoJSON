@@ -4,7 +4,7 @@ Create your geographic data in Java, export to GeoJSON
 
 Usage
 ==========
-GeoFeatures defines a whole layer container
+A GeoFeature describes a container of layers. Each of these layers may contain a set of geographic elements.
 
 * Building a polyline path
 ```java
