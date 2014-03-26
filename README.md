@@ -1,6 +1,6 @@
 Java2GeoJSON
 ============
-Create your geographic data in Java, export to GeoJSON
+Your geographic information model, exported to valid GeoJSON
 
 Usage
 ==========
