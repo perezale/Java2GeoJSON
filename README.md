@@ -6,7 +6,7 @@ Usage
 ==========
 A GeoFeature describes a container of layers. Each of these layers may contain a set of geographic elements.
 
-* Building a polyline path
+* Building a linestring
 ```java
 GeoFeature[] parsePath(Node[] path){
 	//Generate GeoJson objects
